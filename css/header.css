@@ -1,0 +1,62 @@
+.logo {
+    width: 19px;
+    height: 20px;
+    margin-right: 21px;
+    vertical-align: bottom;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    max-height: 70px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    align-items: baseline;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+.header_container--list {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
+
+.list-item .item-a img {
+    vertical-align: middle; 
+    width: 18px;
+    height: auto;
+}
+
+.acces {
+    display: flex;
+    gap: 40px;
+    align-items: baseline;
+    margin-top: -7px;
+} 
+
+.item_a {
+    font-size: 16px;
+}
+
+.item_btn {
+    border: solid 0px;
+    background-color: var(--orange);
+    border-radius: 6px;
+    width: 118px;
+    height: 48px;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    cursor: pointer;
+}
+
+
