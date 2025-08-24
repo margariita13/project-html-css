@@ -1,8 +1,14 @@
 .logo {
-    width: 19px;
-    height: 20px;
+    min-width: 19px;
+    min-height: 20px;
     margin-right: 21px;
     vertical-align: bottom;
+}
+
+.logo-tools {
+    color: var(--title);
+    font-size: 22px;
+    font-weight: 600;
 }
 
 nav {
