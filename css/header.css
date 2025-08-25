@@ -20,16 +20,6 @@ nav {
     align-items: baseline;
 }
 
-.nav {
-    display: flex;
-    justify-content: space-around;
-}
-
-.nav {
-    display: flex;
-    justify-content: space-around;
-}
-
 .header_container--list {
     display: flex;
     flex-direction: row;
@@ -46,10 +36,9 @@ nav {
     display: flex;
     gap: 40px;
     align-items: baseline;
-    margin-top: -7px;
 } 
 
-.item_a {
+.log_a {
     font-size: 16px;
 }
 

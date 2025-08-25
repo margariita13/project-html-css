@@ -21,4 +21,13 @@ p, li, a {
     color: var(--gray);
 }
 
+a:hover{
+    text-decoration: underline;
+    color: var(--title);
+}
+
+button:hover {
+    background-color: var(--light-orange);
+    box-shadow: 3px 4px 5px 6px var(--dark);
+}
 
